@@ -21,7 +21,7 @@ This repository hosts materials which describe the structure and operation this 
 
 ### Meeting times and purposes
 
-![CMPSC 100 Course Flow](https://cs.allegheny.edu/sites/dluman/cmpsc100/cmpsc-100-spring-2021-flow.png)
+![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-spring-2021/course-materials/media/media/cmpsc-100-spring-2021-flow.png)
 
 |Day(s) of Week            |Time            |Group |Purpose of class session         | Location                         |
 |--------------------------|----------------|------|---------------------------------|----------------------------------|
