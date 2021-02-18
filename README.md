@@ -24,7 +24,7 @@ This repository hosts materials which describe the structure and operation this 
 ![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-spring-2021/course-materials/media/media/cmpsc-100-spring-2021-flow.png)
 
 |Day(s) of Week            |Time             |Group |Purpose of class session         | Location                         |
-|--------------------------|-----------=-----|------|---------------------------------|----------------------------------|
+|--------------------------|-----------------|------|---------------------------------|----------------------------------|
 |Monday                    |9:20 - 10:20 AM  |A     |Practice, coaching, work time    |Google Meet (see group Slack)     |
 |Wednesday                 |9:20 - 10:20 AM  |B     |Practice, coaching, work time    |Google Meet (see group Slack)     | 
 |Thursday                  |2:50 - 3:45 PM   |A     |Lab session                      |Google Meet (see group Slack)     |
