@@ -4,7 +4,7 @@ This repository hosts materials which describe the structure and operation this 
 
 ## Resources
 
-* [Syllabus](#syllabus)
+* [Syllabus](#Syllabus)
 * [Course schedule](https://chomp.link/sp-2021-schedule)
 * [Course Slack channel](https://cmpsc-100-sp-2021.slack.com)
 * [Course Jupyter server](https://jupyter.cs.allegheny.edu)
@@ -23,13 +23,13 @@ This repository hosts materials which describe the structure and operation this 
 
 ![CMPSC 100 Course Flow](https://raw.githubusercontent.com/allegheny-college-cmpsc-100-spring-2021/course-materials/media/media/cmpsc-100-spring-2021-flow.png)
 
-|Day(s) of Week            |Time            |Group |Purpose of class session         | Location                         |
-|--------------------------|----------------|------|---------------------------------|----------------------------------|
-|Monday                    |9:20 - 10:20 AM  |A     |Practice, coaching, work time    |YouTube stream (see group Slack) |
-|Wednesday                 |9:20 - 10:20 AM  |B     |Practice, coaching, work time    |YouTube stream (see group Slack) | 
-|Thursday                  |2:50 - 3:45 PM   |A     |Lab session                      |Google Meet (see group Slack)    |
-|Thursday                  |3:50 - 4:45 PM   |B     |Lab session                      |Google Meet (see group Slack)    |
-|Friday                    |9:20 - 10:20 AM  |A/B   |Code demonstration, Q & A        |YouTube stream (see group Slack) |
+|Day(s) of Week            |Time             |Group |Purpose of class session         | Location                         |
+|--------------------------|-----------=-----|------|---------------------------------|----------------------------------|
+|Monday                    |9:20 - 10:20 AM  |A     |Practice, coaching, work time    |Google Meet (see group Slack)     |
+|Wednesday                 |9:20 - 10:20 AM  |B     |Practice, coaching, work time    |Google Meet (see group Slack)     | 
+|Thursday                  |2:50 - 3:45 PM   |A     |Lab session                      |Google Meet (see group Slack)     |
+|Thursday                  |3:50 - 4:45 PM   |B     |Lab session                      |Google Meet (see group Slack)     |
+|Friday                    |9:20 - 10:20 AM  |A/B   |Code demonstration, Q & A        |Google Meet (see course Slack)    |
 
 ### Contact
 
@@ -134,7 +134,7 @@ I ask that, if you are unable to watch or attend live sessions, you reach out to
 
 This course will use:
 
-* YouTube Live
+* YouTube
 * Google Meet
 
 These platforms are for our use only. To use them, you'll need to be logged in using your Allegheny College Google Accounts. Moreover, by remaining enrolled in this class, you agree _not_ to share these resources with anyone _outside of_ our course.
