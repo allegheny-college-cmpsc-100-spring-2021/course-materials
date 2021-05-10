@@ -110,6 +110,21 @@ By the end of this course, you will be able to:
 |                   |           |           |
 |Total              |100%       |1000 pts.  |
 
+#### Grading scale
+
+|Letter grade | Range      |
+|:------------|:-----------|
+|A            | 94 - 100   |
+|A-           | 90 - 93.9  |
+|B+           | 87 - 89.9  |
+|B            | 83 - 86.9  |
+|B-           | 80 - 82.9  |
+|C+           | 77 - 79.9  |
+|C            | 73 - 76.9  |
+|C-           | 70 - 72.9  |
+|D            | 60 - 69.9  |
+|F            | 59.9 and below |
+
 #### Class participation
 
 Participation serves as one of the main vehicles for success in a class like this. The term "participation" means _actively engaging with and sincerely attempting completion of class activities_, of which there may be multiple in a given week. Due dates for class activties will be given at the time of assignment along with activity guidelines. In some cases (especially in the opening weeks of the course), completing activities is crucial to being able to progress in the class. 
